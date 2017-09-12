@@ -135,6 +135,6 @@ But knowing the stuff will help you become better! :muscle:*
 - [Stackoverflow](https://stackoverflow.com/)
 
 ### Practice Online and Earn
-- TopCoder (https://www.topcoder.com/)
-- Hackerearth (https://www.hackerrank.com/)
-- CodeChef (https://www.codechef.com/)
+- <a href="https://www.topcoder.com/">TopCoder</a>
+- <a href="https://www.hackerrank.com/">Hackerearth</a>
+- <a href="https://www.codechef.com/">CodeChef</a>
