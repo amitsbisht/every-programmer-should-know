@@ -133,3 +133,8 @@ But knowing the stuff will help you become better! :muscle:*
 - [GeeksForGeeks](http://www.geeksforgeeks.org/)
 - [Dev.To](https://dev.to/)
 - [Stackoverflow](https://stackoverflow.com/)
+
+### Practice Online and Earn
+- [TopCoder] (https://www.topcoder.com/)
+- [Hackerearth] (https://www.hackerrank.com/)
+- [CodeChef] (https://www.codechef.com/)
